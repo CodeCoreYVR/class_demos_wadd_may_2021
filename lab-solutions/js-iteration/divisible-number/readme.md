@@ -1,0 +1,1 @@
+In the divisible-number lab I use for loop to get the right output.
