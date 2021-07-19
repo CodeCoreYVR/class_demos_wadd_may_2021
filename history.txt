@@ -1,0 +1,25 @@
+ 983  cd Documents
+  984  mkdir assessmentt2
+  985  cd assessmentt2
+  986  touch myTable.html
+  987  nano myTable.html
+  988  touch myForm.html
+  989  nano myForm.html
+  990  touch myEssay.html
+  991  nano myEassy.html
+  992  touch style.css
+  993  nano style.css
+  994  touch myGame.js
+  995  nano myGame.js
+  996  git init
+  997  git add .
+  998  git commit -m 'this is my answer'
+  999  //github.com/CodeCoreYVR/class_demos_wadd_may_2021.git’ 
+ 1000  git remote add origin‘https://github.com/CodeCoreYVR/class_demos_wadd_may_2021.git’ (push)
+ 1001  git remote add origin'https://github.com/CodeCoreYVR/class_demos_wadd_may_2021'
+ 1002  git checkout -b jashandeep_quiz2
+ 1003  git push -u origin jashandeep_quiz2
+ 1004  git remote add origin 'https://github.com/CodeCoreYVR/class_demos_wadd_may_2021'
+ 1005  git checkout -b jashandeep_quiz2
+ 1006  git push -u origin jashandeep_quiz2
+ 1007  history
