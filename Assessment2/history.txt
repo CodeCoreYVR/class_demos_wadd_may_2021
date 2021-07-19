@@ -1,0 +1,42 @@
+  cd Documents
+  ls
+  pwd
+  mkdir Assessment2
+  cd Assessment2
+  ls
+  git status
+  code .
+  ls
+  cd Assessment2
+  ls
+  git status
+  git add Assessment2/*
+  cd ..
+  git add Assessment2/*
+  git status
+  git commit -m "This is Manpreet's quiz answers."
+  git status
+  git remote and origin
+  git remote and origin https://github.com/CodeCoreYVR/class_demos_wadd_may_2021
+  git checkout -b Manpreet-Quiz2
+  git push -u origin Manpreet-Quiz2
+  git push origin Manpreet-Quiz2
+  git branch
+  ls
+  git branch
+  git push origin master
+  git status
+  cd Assessment2
+  git add Assessment2/*
+  git add Assessment2
+  cd ..
+  git branch
+  git remote -v
+  cd Assessment2
+  git remote -v
+  git remote -m Manpreet-Quiz2 Manpreet-Quiz2
+  git remote add origin https://github.com/CodeCoreYVR/class_demos_wadd_may_2021
+  git checkout -b Manpreet-Quiz2
+  git push origin Manpreet-Quiz2
+  git status
+  history
