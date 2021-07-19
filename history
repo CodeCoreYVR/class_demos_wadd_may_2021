@@ -1,0 +1,56 @@
+253  cd Desktop
+  254  ls
+  255  clear
+  256  cd Documents
+  257  history
+  258  cd Documents
+  259  ls
+  260  cd assessment2
+  261  ls
+  262  git status
+  263  nano mytable.html
+  264  git init
+  265  clear
+  266  cd../..
+  267  cd/..
+  268  cd ..
+  269  git init
+  270  git status
+  271  git init
+  272  clear
+  273  git init
+  274  git add
+  275  clear
+  276  git init 
+  277  git add.
+  278  git add .
+  279  history
+  280  clear
+  281  git status
+  282  cd assessment2
+  283  cd Documents
+  284  cd assessments2
+  285  ls
+  286  assessment2
+  287  cd assessment2
+  288  git status
+  289  git add assessment2
+  290  cd ..
+  291  git add assessment2
+  292  cd assessment2
+  293  git add .
+  294  git commit -m 'this is my ans'
+  295  git status
+  296  Git remote add origin 'https://github.com/CodeCoreYVR/class_demos_wadd_may_2021.git'
+  297  Git remote add origin ‘https://github.com/CodeCoreYVR/class_demos_wadd_may_2021.git’
+  298  git remote add origin "https://github.com/CodeCoreYVR/class_demos_wadd_may_2021.git"
+  299  git checkout-b jashan_gill-quiz2
+  300  git checkout -b jashan_gill_quiz2
+  301  git push -u origin jashan_gill_quiz2
+  302  clear
+  303  cd ../..
+  304  clear
+  305  ls
+  306  clear
+  307  history
+
