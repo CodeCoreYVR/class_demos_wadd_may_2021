@@ -1,0 +1,15 @@
+.hero{
+    background-color: antiquewhite;
+    color: rgb(75, 175, 175);
+    font-family: "Times New Roman", Times, serif;
+}
+.zero{
+    background-color: rgb(136, 87, 24);
+    color: rgb(75, 175, 105);
+    font-family: Arial, Helvetica, sans-serif;
+}
+.fal{
+    background-color: rgb(224, 183, 214);
+    color: rgb(175, 75, 122);
+    font-family: "Lucida Console", "Courier New", monospace;
+}
