@@ -1,3 +1,9 @@
+ 
+let input = process.argv.slice(2);//Rubal codes 
+
+const password=input[0];//Rubal codes 
+console.log(password.toString());//Rubal codes 
+
 var password = 7;
 
 if(password > 12){
