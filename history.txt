@@ -1,0 +1,47 @@
+   mkdir Assessment2
+   ls
+   cd Assessment2/
+   mkdir mytable.html
+   cd mytable.html/
+   code .
+   cd ..
+   ls
+   mkdir myForm.html
+   cd myForm.html/
+   code .
+   ls
+   cd ..
+   ls
+   mkdir myEssay.html
+   ls
+   cd myEssay.html/
+   code .
+   cd ..
+   ls
+   code .
+   git status
+   cd ..
+   git status
+   cd ..
+   git status
+   cd Assessment2
+   cd documents
+   git add Assessment2
+   git status
+   ls
+   cd documents
+   ls
+   cd Assessment2/
+   cd ..
+   git add Assessment2/*
+   git status
+   cd Assessment2
+   git init
+   git add .
+   git commit -m 'this is my solution'
+   git remote add origin  'https://github.com/CodeCoreYVR/class_demos_wadd_may_2021.git'
+   git checkout -b rubalpreet-quiz2
+   git push -u rubalpreet-quiz2
+   git push -u origin rubalpreet-quiz2
+    history
+
