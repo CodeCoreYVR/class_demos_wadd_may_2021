@@ -30,7 +30,7 @@
   811  cd ..
   812  git add Assessment2/*
   813  git status
-  814  git commit -m 'This is my quiz answers'
+  814  git commit -m'This is my quiz answers'
   815  git status
   816  git remote add origin 'https://github.com/CodeCoreYVR/class_demos_wadd_may_2021.git'
   817  git checkout -b Quiz2-Ashish-Poudel
