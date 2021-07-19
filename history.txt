@@ -1,0 +1,38 @@
+782  cd Documents
+  783  mkdir Assessment2
+  784  cd Assessment2
+  785  touch myTable.html
+  786  node myTable.html
+  787  cd ..
+  788  cd Assessment2
+  789  git init
+  790  node myTable.html
+  791  history
+  792  clear
+  793  nano myTable.html
+  794  touch myForm.html
+  795  nano myForm.html
+  796  nano myTable.html
+  797  touch myEssay.html
+  798  nano myEssay.html
+  799  touch nystyle.css
+  800  nano nystyle.css
+  801  touch myGames.js
+  802  nano myGames.js
+  803  nano myEssay.html
+  804  nano myForm.html
+  805  nano myGames.js
+  806  cd ..
+  807  git status
+  808  cd Assessment2
+  809  git status
+  810  git add Assessment2/*
+  811  cd ..
+  812  git add Assessment2/*
+  813  git status
+  814  git commit -m 'This is my quiz answers'
+  815  git status
+  816  git remote add origin 'https://github.com/CodeCoreYVR/class_demos_wadd_may_2021.git'
+  817  git checkout -b Ashish_Poudel_quiz2
+  818  git push -u origin Ashish_Poudel_quiz2
+  819  history
