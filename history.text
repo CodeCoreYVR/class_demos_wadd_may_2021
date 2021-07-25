@@ -1,0 +1,44 @@
+git clone https://github.com/CodeCoreYVR/class_demos_wadd_may_2021.git
+  298  mkdir Assessment2
+  299  ls
+  300  cd Assessment2
+  301  mkdir mytable.html
+  302  cd mytable.html
+  303  code.
+  304  code .
+  305  cd ..
+  306  ls
+  307  mkdir myForm.html
+  308  cd myForm.html
+  309  code .
+  310  cd ..
+  311  ls
+  312  mkdir myEssay.html
+  313  ls
+  314  cd myEssay.html
+  315  code .
+  316  cd ..
+  317  ls
+  318  mkdir myGame.js
+  319  ls
+  320  cd myGame.js
+  321  code .cd Assessment2
+  494  git add Assessment2/*
+  495  git status
+  496  cd Assessment2
+  497  git init
+  498  git add .
+  499  git commit -m 'this is my solutins'
+  500  git remote add origin  'https://github.com/CodeCoreYVR/class_demos_wadd_may_2021.git'
+  501  git checkout -b gurtejveer-quiz2
+  502  git push -u gurtejveer-quiz2
+  503  git remote -v
+  504  git branch
+  505  git remote add origin https://github.com/CodeCoreYVR/class_demos_wadd_may_2021
+  506  git checkout -b gurtejveer-quiz2
+  507  git push origin gurtejveer-quiz2
+  508  git  push origin gurtejveer-quiz2
+  509  git push origin gurtejveer-quiz2
+  510  git status
+  511  history
+
